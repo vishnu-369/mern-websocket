@@ -1,2 +1,2 @@
 # mern-websocket
-WebSockets Implementation Using MERN
+WebSockets Implementation Using MERN Stack
